@@ -18,7 +18,7 @@ Final year engineering group project developed using Stacked Generalization Mach
 • The aim of this project is to perform analysis and prediction of crimes in states using machine learning models. It focuses on creating a model that can help to detect the number of crimes by its type in a particular state.
 
 
-___*DATASET*___
+*___*DATASET*___*
 
 
 <img width="453" alt="image" src="https://github.com/AmanDwi730/Analysis-Prediction-of-Crime-Hotspots/assets/97251958/77d81791-f57b-42b7-9fad-a04d727ea3ec">
